@@ -1,4 +1,4 @@
-<img src="/logo/logo-black.svg"/>
+<img src="/logo/logo-white-border-black.svg"/>
 TU eMpower Africa e.V.
 
 Analyze. Realize. Sustain.
