@@ -24,4 +24,19 @@ We analyze the development potential of various communities and regions in Afric
 <a href="https://codire.de/" target="_blank">
 <img src="/supporters/codire.svg" height="50"/>
 </a>
+<a href="https://www.oekobit-biogas.com/" target="_blank">
+<img src="/supporters/oekobit.svg" height="50"/>
+</a>
+<a href="https://sanaexpert.com/" target="_blank">
+<img src="/supporters/sana-expert.svg" height="50"/>
+</a>
+<a href="https://www.lorentz.de/" target="_blank">
+<img src="/supporters/lorenz.svg" height="50"/>
+</a>
+<a href="https://tum.de/" target="_blank">
+<img src="/supporters/tum.svg" height="50"/>
+</a>
+<a href="https://www.unternehmertum.de/" target="_blank">
+<img src="/supporters/unternehmer-tum.svg" height="50"/>
+</a>
 </div>
