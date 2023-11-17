@@ -15,4 +15,7 @@ We analyze the development potential of various communities and regions in Afric
 <a href="https://power-blox.com/" target="_blank">
 <img src="/supporters/powerblox.svg" height="50"/>
 </a>
+<a href="https://www.wfp.org/" target="_blank">
+<img src="/supporters/wpf.svg" height="50"/>
+</a>
 </div>
