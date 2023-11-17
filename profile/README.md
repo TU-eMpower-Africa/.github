@@ -16,6 +16,6 @@ We analyze the development potential of various communities and regions in Afric
 <img src="/supporters/powerblox.svg" height="50"/>
 </a>
 <a href="https://www.wfp.org/" target="_blank">
-<img src="/supporters/wpf.svg" height="50"/>
+<img src="/supporters/wfp.svg" height="50"/>
 </a>
 </div>
