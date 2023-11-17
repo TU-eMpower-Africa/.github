@@ -1,5 +1,5 @@
 # TU eMpower Africa e.V. (Analyze. Realize. Sustain.)
-<img src="logo/logo-white-border-black.svg" style="max-width: 450px"/>
+<img src="logo/logo-white-border-black.svg" />
 
 ## What we do?
 We analyze the development potential of various communities and regions in Africa. Therefore, we use research results which have been obtained by our members during their theses and student projects at Technical University of Munich.
@@ -9,3 +9,10 @@ African communities face significant challenges due to the lack of access to ene
 
 ## How we do it?
 We analyze the development potential of various communities and regions in Africa. Therefore we use results which have been obtained by our members during their theses and student projects at Technical University of Munich. This process ensures innovative solutions, which we apply individually in projects for the different communities that we work with.
+
+## Supporters
+<div style="display: flex; flex-wrap: wrap;">
+<a style="max-height: 50px" href="https://power-blox.com/" target="_blank">
+<img src="/supporters/powerblox.svg" />
+</a>
+</div>
