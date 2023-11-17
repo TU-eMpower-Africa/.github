@@ -13,15 +13,15 @@ We analyze the development potential of various communities and regions in Afric
 ## Supporters
 <div style="display: flex; flex-wrap: wrap;">
 <a href="https://power-blox.com/" target="_blank">
-<img src="/supporters/powerblox.svg" height="150"/>
+<img src="/supporters/powerblox.svg" height="50"/>
 </a>
 <a href="https://www.wfp.org/" target="_blank">
-<img src="/supporters/wfp.svg" height="150"/>
+<img src="/supporters/wfp.svg" height="50"/>
 </a>
-<a href="https://www.africagreentec.com/" target="_blank">
-<img src="/supporters/africa-greentec.svg" height="150"/>
+<a href="https://www.wfp.org/" target="_blank">
+<img src="/supporters/africa-greentec.svg" height="50"/>
 </a>
 <a href="https://codire.de/" target="_blank">
-<img src="/supporters/codire.svg" height="150"/>
+<img src="/supporters/codire.svg" height="50"/>
 </a>
 </div>
