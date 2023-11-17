@@ -31,7 +31,7 @@ We analyze the development potential of various communities and regions in Afric
 <img src="/supporters/sana-expert.svg" height="50"/>
 </a>
 <a href="https://www.lorentz.de/" target="_blank">
-<img src="/supporters/lorenz.svg" height="50"/>
+<img src="/supporters/lorentz.svg" height="50"/>
 </a>
 <a href="https://tum.de/" target="_blank">
 <img src="/supporters/tum.svg" height="50"/>
