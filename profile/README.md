@@ -12,7 +12,7 @@ We analyze the development potential of various communities and regions in Afric
 
 ## Supporters
 <div style="display: flex; flex-wrap: wrap;">
-<a style="max-height: 50px" href="https://power-blox.com/" target="_blank">
-<img src="/supporters/powerblox.svg" />
+<a href="https://power-blox.com/" target="_blank">
+<img src="/supporters/powerblox.svg" height="50"/>
 </a>
 </div>
