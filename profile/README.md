@@ -18,4 +18,10 @@ We analyze the development potential of various communities and regions in Afric
 <a href="https://www.wfp.org/" target="_blank">
 <img src="/supporters/wfp.svg" height="50"/>
 </a>
+<a href="https://www.africagreentec.com/" target="_blank">
+<img src="/supporters/africa-greentec.svg" height="50"/>
+</a>
+<a href="https://codire.de/" target="_blank">
+<img src="/supporters/codire.svg" height="50"/>
+</a>
 </div>
