@@ -18,7 +18,7 @@ We analyze the development potential of various communities and regions in Afric
 <a href="https://www.wfp.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/TU-eMpower-Africa/.github/main/supporters/wfp.svg" height="50"/>
 </a>
-<a href="https://www.wfp.org/" target="_blank">
+<a href="https://www.africagreentec.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/TU-eMpower-Africa/.github/main/supporters/africa-greentec.svg" height="50"/>
 </a>
 <a href="https://codire.de/" target="_blank">
